@@ -16,6 +16,9 @@ share: true
 
 pictureurl: "http://huibertvanrossum.nl/wp-content/uploads/"
 
+mailchimp:
+  account: "//huibertvanrossum.us7.list-manage.com/subscribe?u=b26cf83cb26165b8532d498f4&id=5ce9eed59a"
+
 # Owner/author information
 owner:
   name:   huibertvanrossum
