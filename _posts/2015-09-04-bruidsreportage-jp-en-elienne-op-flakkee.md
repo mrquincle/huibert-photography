@@ -2,7 +2,7 @@
 layout: "post"
 title: "Bruidsrapportage JP en Elienne op Flakkee"
 subtitle: "Flakkee is geen Zeeland"
-active: "journal"
+active: "blog"
 image:
   feature: "20150825_JP-Elienne_Huibert-van-Rossum-Photography_43.jpg"
 date: "2015-09-04"
