@@ -15,7 +15,7 @@ header-img: "img/writing-bg.jpg"
     <h1 class="archive-title" style="display:inline-block;"> POSTS </h1>
 
     <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;margin-left:.5em;">
-      Zoek op <a href="{{ site.baseurl }}/journal/category/">Categorie</a> of <a href="{{ site.baseurl }}/journal/tag/">Tag</a>
+      Zoek op <a href="{{ site.baseurl }}/blog/tag/">tags</a>
     </div>
   </div>
 
@@ -37,7 +37,7 @@ header-img: "img/writing-bg.jpg"
     
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
-	<img src="{{ site.baseurl }}/img/postcover/{{ post.image.feature }}">
+	<img src="{{ site.pictureurl }}{{ post.image.feature }}">
 	{% endif %}
  
  
