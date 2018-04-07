@@ -4,31 +4,32 @@ title: "Bruidsrapportage JP en Elienne op Flakkee"
 subtitle: "Flakkee is geen Zeeland"
 active: "journal"
 image:
-  feature: "http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_43.jpg"
+  feature: "20150825_JP-Elienne_Huibert-van-Rossum-Photography_43.jpg"
 date: "2015-09-04"
-header-img: "img/postcover/pc007.jpg"
+header-img: "20150825_JP-Elienne_Huibert-van-Rossum-Photography_43.jpg"
 comments: "true"
+tags: [bruiloft, flakkee]
 gallery1: 
-  - image_path: http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_43.jpg
+  - image_path: 20150825_JP-Elienne_Huibert-van-Rossum-Photography_43.jpg
     image-caption: JP en Elienne
     image-copyright: © Huibert van Rossum
-  - image_path: http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_10.jpg
+  - image_path: 20150825_JP-Elienne_Huibert-van-Rossum-Photography_10.jpg
     image-caption: JP en Elienne
     image-copyright: © Huibert van Rossum
-  - image_path: http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_11.jpg
+  - image_path: 20150825_JP-Elienne_Huibert-van-Rossum-Photography_11.jpg
     image-caption: JP en Elienne
     image-copyright: © Huibert van Rossum
 gallery2: 
-  - image_path: http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_12.jpg
+  - image_path: 20150825_JP-Elienne_Huibert-van-Rossum-Photography_12.jpg
     image-caption: JP en Elienne
     image-copyright: © Huibert van Rossum
-  - image_path: http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_13.jpg
+  - image_path: 20150825_JP-Elienne_Huibert-van-Rossum-Photography_13.jpg
     image-caption: JP en Elienne
     image-copyright: © Huibert van Rossum
-  - image_path: http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_14.jpg
+  - image_path: 20150825_JP-Elienne_Huibert-van-Rossum-Photography_14.jpg
     image-caption: JP en Elienne
     image-copyright: © Huibert van Rossum
-  - image_path: http://www.huibertvanrossum.nl/wp-content/uploads/20150825_JP-Elienne_Huibert-van-Rossum-Photography_15.jpg
+  - image_path: 20150825_JP-Elienne_Huibert-van-Rossum-Photography_15.jpg
     image-caption: JP en Elienne
     image-copyright: © Huibert van Rossum
 ---

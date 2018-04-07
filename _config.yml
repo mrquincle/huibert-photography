@@ -14,6 +14,8 @@ linkedin_username: "huibertvanrossum"
 discus_shortname: ""
 share: true
 
+pictureurl: "http://huibertvanrossum.nl/wp-content/uploads/"
+
 # Owner/author information
 owner:
   name:   huibertvanrossum
