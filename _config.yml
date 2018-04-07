@@ -34,12 +34,12 @@ comments :
 
 # Internal nav
 nav:
-  - HOME: "/huibert/"
-  - BLOG: "/huibert/blog/"
-  - HUIBERT: "/huibert/huibert/"
-  - BRUILOFT: "/huibert/bruiloft/"
-  - DAGELIJKS LEVEN: "/huibert/dagelijksleven/"  
-  - CONTACT: "/huibert/contact/"
+  - HOME: "/huibert-photography/"
+  - BLOG: "/huibert-photography/blog/"
+  - HUIBERT: "/huibert-photography/huibert-photography/"
+  - BRUILOFT: "/huibert-photography/bruiloft/"
+  - DAGELIJKS LEVEN: "/huibert-photography/dagelijksleven/"  
+  - CONTACT: "/huibert-photography/contact/"
 
     #  - GALLERY: "/huibert/gallery/"  
     
