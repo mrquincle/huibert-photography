@@ -29,7 +29,7 @@ echo "Write blog post $ofile"
 echo '---' >> $ofile
 echo 'layout: "post"' >> $ofile
 echo "title: \"$title\"" >> $ofile
-echo 'subtitle: ""' >> $ofile
+echo "subtitle: \"$subtitle\"" >> $ofile
 echo 'active: "blog"' >> $ofile
 echo 'image:' >> $ofile
 echo "  feature: \"$feature_img\"" >> $ofile
