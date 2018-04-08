@@ -98,7 +98,7 @@ layout: default
 
   <div class="section-heading group" style="color: #fff; text-align: center; margin-top: 10px;">
 
-    <h3>Tags Cloud</h3>
+    <h3>Website woordenwolk</h3>
 
   </div>
 
@@ -127,12 +127,13 @@ layout: default
 
   <div class="tag-list">
     {% for tag in tags %}
-<a href="{{ site.baseurl }}/journal/tag/{{ tag | slugify }}/" style="text-decoration:none;"> {{ tag }} </a> &nbsp;&nbsp;
+<a href="{{ site.baseurl }}/blog/tag/#{{ tag | slugify }}" style="text-decoration:none;"> {{ tag }} </a> &nbsp;&nbsp;
 {% endfor %}
   </div>
 
 </div>
 
+<!--
 <hr class="medium">
 
 <div class="categories">
@@ -174,6 +175,7 @@ layout: default
   </div>
 
 </div>
+-->
 
 <hr class="medium">
 
