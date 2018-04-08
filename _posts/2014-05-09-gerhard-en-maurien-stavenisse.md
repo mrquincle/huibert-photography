@@ -8,7 +8,7 @@ image:
 date: "2014-05-09"
 header-img: "2015/03/Gerhard-en-Maurien_Huibert-van-Rossum_Photography_33.jpg"
 comments: "true"
-tags: [bruiloft]
+tags: [bruiloft,tuin]
 gallery1: 
   - image_path: 2015/03/Gerhard-en-Maurien_Huibert-van-Rossum_Photography_11.jpg
   - image_path: 2015/03/Gerhard-en-Maurien_Huibert-van-Rossum_Photography_02.jpg

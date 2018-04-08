@@ -8,7 +8,7 @@ image:
 date: "2017-08-29"
 header-img: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_007.jpg"
 comments: "true"
-tags: [bruiloft]
+tags: [bruiloft,landgoed,beukenrode]
 gallery1:
   - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_001.jpg
     image-caption: Bruidsreportage op landgoed Beukenrode
