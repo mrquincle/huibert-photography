@@ -132,14 +132,16 @@ hr.small {
   }
 }
 .intro-header {
-  background: no-repeat center center;
+  background: no-repeat center center fixed;
   background-color: #808080;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  margin-bottom: 50px; 
+  /* There is often a white line around Huibs pictures. A negative margin gets rid of this but creates a page too wide. */
+/*  margin: 0 -10px 0 -10px; */
 }
 .intro-header .site-heading,
 .intro-header .post-heading,

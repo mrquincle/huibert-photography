@@ -151,7 +151,7 @@ Prijslijst is geldig vanaf 1 september 2017 en kan ten allen tijde gewijzigd wor
 
 Lees hier de ervaringen van bruidsparen die jullie voor zijn gegaan.
 
-![Wilmar-Irma](http://www.huibertvanrossum.nl/wp-content/uploads/20160902_Wilmar-Irma_Huibert-van-Rossum-Photography_056-1280x862.jpg)
+![Wilmar-Irma](http://www.huibertvanrossum.nl/wp-content/uploads/20160902_Wilmar-Irma_Huibert-van-Rossum-Photography_056.jpg){:width="100%"}
 
 “Wat een geweldige foto’s heb je gemaakt van onze bruiloftsdagen. Van het begin tot het eind heb je alle tijd voor ons gehad. Wat resulteert in een prachtig album. Leuk ook dat je (heel snel) een blog maakt van de dag. Respect voor je kwaliteiten als fotograaf. Dank voor al je inzet. Absolute aanrader!!” ~ Jan Dirk & Marieke
 

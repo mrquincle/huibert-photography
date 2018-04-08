@@ -6,11 +6,6 @@ active: blog
 header-img: "img/writing-bg.jpg"
 ---
 
-<head>
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/journal.css" media="screen" />
-</head>
-
-<body class="journal">
   <div class="archive">
     <h1 class="archive-title" style="display:inline-block;"> POSTS </h1>
 
@@ -37,7 +32,7 @@ header-img: "img/writing-bg.jpg"
     
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
-	<img src="{{ site.pictureurl }}{{ post.image.feature }}">
+	<img src="{{ site.pictureurl }}{{ post.image.feature }}" style="width:100%">
 	{% endif %}
  
  
@@ -80,4 +75,3 @@ header-img: "img/writing-bg.jpg"
 </ul>
 {% endif %}
 
-</body>
