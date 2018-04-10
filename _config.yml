@@ -40,7 +40,7 @@ comments :
 # Internal nav
 nav:
   - HOME: "/huibert-photography/"
-  - BLOG: "/huibert-photography/blog/"
+  - SHOOTS: "/huibert-photography/shoots/"
   - HUIBERT: "/huibert-photography/huibert/"
   - BRUILOFT: "/huibert-photography/bruiloft/"
   - DAGELIJKS LEVEN: "/huibert-photography/dagelijksleven/"  
@@ -63,10 +63,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/shoots/page:num/"
 permalink: "/:title/"
-categories_path: "/blog/category/"
-tags_path: "/blog/tag/"
+categories_path: "/shoots/category/"
+tags_path: "/shoots/tag/"
 plugins: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

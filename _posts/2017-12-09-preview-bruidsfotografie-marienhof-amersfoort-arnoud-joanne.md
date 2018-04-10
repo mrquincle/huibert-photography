@@ -2,7 +2,7 @@
 layout: "post"
 title: "Preview bruidsfotografie Marienhof Amersfoort Around Joanne"
 subtitle: ""
-active: "blog"
+active: "shoots"
 image:
   feature: "Huibert-van-Rossum-Photography_Bruidsfotografie-Marienhof-Amersfoort_2.jpg"
 date: "2017-12-09"

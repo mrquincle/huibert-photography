@@ -1,8 +1,8 @@
 ---
 layout: page
 description: "Uitgelichte shoots en leuke achtergrondweetjes"
-title: "Blog"
-active: blog
+title: "Shoots"
+active: shoots
 header-img: "img/writing-bg.jpg"
 ---
 
@@ -10,7 +10,7 @@ header-img: "img/writing-bg.jpg"
     <h1 class="archive-title" style="display:inline-block;"> POSTS </h1>
 
     <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;margin-left:.5em;">
-      Zoek op <a href="{{ site.baseurl }}/blog/tag/">tags</a>
+      Zoek op <a href="{{ site.baseurl }}/shoots/tag/">tags</a>
     </div>
   </div>
 
@@ -61,7 +61,7 @@ header-img: "img/writing-bg.jpg"
 <ul class="pager" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;" >
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nieuwere Shoots</a>
     </li>
     {% endif %}
 
@@ -69,7 +69,7 @@ header-img: "img/writing-bg.jpg"
 
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Oudere Shoots &rarr;</a>
     </li>
     {% endif %}
 </ul>

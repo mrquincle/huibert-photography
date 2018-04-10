@@ -2,7 +2,7 @@
 layout: "post"
 title: "Bruidsreportage op landgoed Beukenrode"
 subtitle: ""
-active: "blog"
+active: "shoots"
 image:
   feature: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_007.jpg"
 date: "2017-08-29"

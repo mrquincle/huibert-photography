@@ -2,7 +2,7 @@
 layout: "post"
 title: "Gerhard en Maurien Stavenisse"
 subtitle: "De jongen uit de IJsselvalei en het meisje van de punt van de wereld"
-active: "blog"
+active: "shoots"
 image:
   feature: "2015/03/Gerhard-en-Maurien_Huibert-van-Rossum_Photography_33.jpg"
 date: "2014-05-09"

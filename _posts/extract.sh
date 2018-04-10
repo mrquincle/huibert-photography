@@ -24,13 +24,13 @@ ofile="$date-$rapportage.md"
 rm -f $ofile
 touch $ofile
 
-echo "Write blog post $ofile"
+echo "Write shoot to file $ofile"
 
 echo '---' >> $ofile
 echo 'layout: "post"' >> $ofile
 echo "title: \"$title\"" >> $ofile
 echo "subtitle: \"$subtitle\"" >> $ofile
-echo 'active: "blog"' >> $ofile
+echo 'active: "shoots"' >> $ofile
 echo 'image:' >> $ofile
 echo "  feature: \"$feature_img\"" >> $ofile
 echo "date: \"$date\"" >> $ofile
