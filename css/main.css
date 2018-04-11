@@ -408,6 +408,10 @@ body {
  color: black;
 }
 
+#fb-comment-button {
+  text-align: center;
+}
+
 /* From https://bootsnipp.com/snippets/Rlbo4 */
 
 .pricingTable{

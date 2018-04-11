@@ -19,7 +19,7 @@ layout: default
 
 <article>
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.pictureurl }}/{% if page.header-img %}{{ page.header-img }}{% endif %}')">
+<header class="intro-header" style="background-image: url('{% if page.local-header-img-url %}{{ site.baseurl }}/{{ page.local-header-img-url }}{% else %}{{ site.pictureurl }}{% endif %}/{% if page.header-img %}{{ page.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
                             <div class="post-heading">
@@ -38,11 +38,11 @@ layout: default
 
 
  {% if post.tags.size > 0 %}
-  &sim; Sleutelwoorden <i class="fa fa-tags"></i>{% if post.tags.size == 1 %} {% else %}{% endif %}&nbsp;:&nbsp;{% for tag in page.tags %}<a href="{{ site.baseurl }}/journal/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}{% endif %}
+  &sim; Sleutelwoorden <i class="fa fa-tags"></i>{% if post.tags.size == 1 %} {% else %}{% endif %}&nbsp;:&nbsp;{% for tag in page.tags %}<a href="{{ site.baseurl }}/shoots/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}{% endif %}
 
 
   {% if post.categories.size > 0 %}
-   &sim; Filed in <i class="fa fa-briefcase"></i>{% if post.categories.size == 1 %} {% else %}{% endif %}&nbsp;:&nbsp;{% for tag in page.categories %}<a href="{{ site.baseurl }}/journal/category/{{ tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %%}{% endif %}    
+   &sim; Filed in <i class="fa fa-briefcase"></i>{% if post.categories.size == 1 %} {% else %}{% endif %}&nbsp;:&nbsp;{% for tag in page.categories %}<a href="{{ site.baseurl }}/shoots/category/{{ tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %%}{% endif %}    
                     
    </span>
 
@@ -170,7 +170,7 @@ layout: default
 
  <div class="category-list">
    {% for category in categories %}
-<a href="{{ site.baseurl }}/journal/category/{{ category | slugify }}/"> {{ category }} </a> &nbsp;&nbsp;
+<a href="{{ site.baseurl }}/shoots/category/{{ category | slugify }}/"> {{ category }} </a> &nbsp;&nbsp;
 {% endfor %}
   </div>
 

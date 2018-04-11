@@ -19,6 +19,19 @@ Het mooie aan mijn vak is dat iedere bruiloft uniek is, geen dag is hetzelfde! E
 
 # Loveshoot
 
+Een fotograaf die heel de dag zijn lens op je gericht heeft … geen dagelijkse praktijk voor de meeste mensen. Daarom bied ik aanstaande bruidsparen de mogelijkheid om voorafgaand aan de bruiloft te oefenen tijdens een loveshoot.
+
+We selecteren vooraf samen een mooie locatie en tijdens de shoot – die ongeveer een uur duurt – kunnen we op een ontspannen manier verder kennismaken. Tijdens de loveshoot kun je ook in alle rust aangeven wat je wel of niet wenst tijdens de bruiloft en doen we samen ideeën op.
+
+Tip: Ideaal om deze foto’s te gebruiken voor jullie verlovings- of trouwkaart!
+
+Maar let op! Een loveshoot is eigenlijk een serie mooie foto’s die je hebt laten maken met degene van wie je veel houdt. Dus iedereen die hun liefde op een bijzondere en unieke manier in beeld wil hebben gebracht, is bij mij aan het juiste adres. Of het nu gaat om jullie verloving of om een verrassing voor je man, vrouw, vriendin of moeder: dat maakt niets uit! Wat ik nodig heb voor lieve, ontroerende, veelzeggende beelden is: een flinke portie liefde en een gezonde dosis eigenzinnigheid!
+
+Je ontvangt de serie foto’s als bestanden in hoge resolutie, die geschikt zijn voor bijvoorbeeld het maken van een afdruk op canvas.
+
+De investering voor een loveshoot is 250 euro. Je ontvangt 25 professioneel bewerkte foto’s in hoge resolutie, geschikt voor bijvoorbeeld het maken van een afdruk op canvas.
+De prijzen zijn excl. reiskosten van €0,35 / km.
+
 # Album
 
 # FAQ

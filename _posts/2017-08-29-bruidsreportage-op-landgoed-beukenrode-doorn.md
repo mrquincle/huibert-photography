@@ -7,125 +7,129 @@ image:
   feature: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_007.jpg"
 date: "2017-08-29"
 header-img: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_007.jpg"
+local-header-img-url: "img/headers"
 comments: "true"
-tags: [bruiloft,landgoed,beukenrode]
+tags: 
 gallery1:
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_001.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_007.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_002.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_001.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_003.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_002.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
 gallery2:
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_004.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_003.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_005.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_004.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_006.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_005.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_007.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_006.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_008.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_007.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_009.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_008.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_010.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_009.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_012.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_010.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_014.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_012.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_016.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_014.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_017.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_016.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_018.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_017.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_019.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_018.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_020.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_019.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_021.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_020.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_022.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_021.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_023.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_022.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_024.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_023.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_026.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_024.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_027.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_026.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_028.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_027.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_030.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_028.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_031.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_030.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_032.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_031.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_033.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_032.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_034.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_033.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_035.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_034.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_036.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_035.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_037.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_036.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_038.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_037.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_039.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_038.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_040.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_039.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_041.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_040.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_042.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_041.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_043.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_042.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
-  - image_path: 20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_044.jpg
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_043.jpg"
+    image-caption: Bruidsreportage op landgoed Beukenrode
+    image-copyright: © Huibert van Rossum
+  - image_path: "20170829_Bruidsreportage-landgoed-beukenrode_Huibert-van-Rossum-Photography_044.jpg"
     image-caption: Bruidsreportage op landgoed Beukenrode
     image-copyright: © Huibert van Rossum
 ---
@@ -147,5 +151,6 @@ In het gemeentehuis in Veenendaal wordt het huwelijk voor de wet voltrokken. Net
 Het feest wordt verder gevierd in Jachthuis Beukenrode. Voor Nick is dit landgoed niet onbekend. Hij heeft er jaren gewerkt. Niet verwonderlijk dat de bruidsreportage op landgoed Beukenrode plaatsvindt. Het is daar ook prachtig. In het donker zijn we nog even naar buiten gesneakt om nog even een mooie plaat te maken met het jachthuis op de achtergrond.
 
 Nick en Bertine zijn een lief stel en dan niet een beetje maar echt een héél lief stel! Sociaal, liefdevol, gezellig en veel humor dat zijn woorden die bij hen passen. Ik heb opnieuw van dit bruidspaar genoten toen ik foto’s koos voor dit blog. Ik wist bijna niet te kiezen, zoveel mooie, tedere en ook leuke foto’s. Veel geluk samen Nick & Bertine!
+
 
 {% include subgallery.html id="gallery2" %}
