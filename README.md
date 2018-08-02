@@ -3,7 +3,7 @@
 This is modelled after the Photorama website. See <https://github.com/photorama>. This is a **jekyll** theme. It uses 
 [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll "Clean Blog") as its basis.
 
-You see this blog hosted at <http://huibertvanrossum.nl>.
+You see this blog hosted at [my blog for now](https://www.annevanrossum.com/huibert-photography/).
 
 ## License
 
