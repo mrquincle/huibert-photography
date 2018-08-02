@@ -5,6 +5,8 @@ This is modelled after the Photorama website. See <https://github.com/photorama>
 
 You see this blog hosted at [my blog for now](https://www.annevanrossum.com/huibert-photography/).
 
+![Website screenshot](doc/website.png)
+
 ## License
 
 The MIT License (MIT). See the LICENSE file. All adaptations to the original code (the Photorama code) are by 
