@@ -7,6 +7,10 @@ You see this blog hosted at [my blog for now](https://www.annevanrossum.com/huib
 
 ![Website screenshot](doc/website.png)
 
+![Website screenshot](doc/shoot.png)
+
+![Website screenshot](doc/explanation.png)
+
 ## License
 
 The MIT License (MIT). See the LICENSE file. All adaptations to the original code (the Photorama code) are by 
